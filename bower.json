@@ -1,0 +1,26 @@
+{
+  "name": "gulp1",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "1.6.x"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "./dist/js/bootstrap.min.js",
+        "./dist/css/bootstrap.min.css"
+      ]
+    },
+    "angular": {
+      "main": [
+        "./angular.min.js"
+      ]
+    },
+    "jquery": {
+      "main": [
+        "./dist/jquery.min.js"
+      ]
+    }
+  }
+}

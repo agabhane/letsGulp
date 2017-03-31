@@ -1,0 +1,12 @@
+body{
+    font-size: 14px;
+}
+
+.page-data {
+    background-color: crimson;
+    height: 100vh;
+    text-align: center;
+    font-size: 6rem;
+    color: white;
+    padding-top: 20%;
+}
