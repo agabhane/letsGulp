@@ -1,12 +1,18 @@
 body{
     font-size: 14px;
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    height: 100vh;
 }
 
 .page-data {
-    background-color: crimson;
-    height: 100vh;
-    text-align: center;
     font-size: 6rem;
     color: white;
     padding-top: 20%;
+}
+
+.subtext {
+    color: rgba(255,255,255, 0.7);
+    font-size: 3rem;
 }

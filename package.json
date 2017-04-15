@@ -5,7 +5,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.2.1",
-    "del": "^2.2.0",
+    "del": "^2.2.2",
     "event-stream": "^3.3.4",
     "gulp": "^3.9.0",
     "gulp-cache": "^0.4.2",
