@@ -1,6 +1,6 @@
 body{
     font-size: 14px;
-    background-color: crimson;
+    background-color: lawngreen;
     text-align: center;
     color: white;
     height: 100vh;
@@ -9,10 +9,18 @@ body{
 .page-data {
     font-size: 6rem;
     color: white;
-    padding-top: 20%;
+    padding-top: 10%;
 }
 
 .subtext {
     color: rgba(255,255,255, 0.7);
     font-size: 3rem;
+}
+
+.logo {
+    background-image: url('assets/images/Nice_Logo.svg.png');
+    background-size: 200px auto;
+    background-repeat: no-repeat;
+    height: 100px;
+    background-position: center;
 }
